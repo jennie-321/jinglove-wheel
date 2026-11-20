@@ -1,0 +1,53 @@
+JINGLOVE by Rosy & Leo — Lucky Spin
+
+This folder is already unzipped. Keep all website files together.
+
+GITHUB PAGES SETUP
+Upload the CONTENTS of this folder into a GitHub repository.
+index.html must be at the repository root, not inside another folder.
+Enable GitHub Pages for that branch and root folder in repository settings.
+Use the HTTPS website address supplied by GitHub on your iPad.
+This package is ready to upload; it has not been published for you.
+
+IPAD SETUP
+Open the published website in Safari while online.
+Wait for “Ready for offline use”.
+Optionally choose Share > Add to Home Screen.
+Open that Home Screen icon while online and wait for the ready message again.
+Test in Airplane Mode by reloading and spinning before the market.
+Use iPadOS 15.4 or later. Avoid clearing browser storage; Safari may evict caches.
+A local HTML file alone cannot set up offline mode.
+
+STAFF CONTROLS
+Tap JINGLOVE five times within five seconds to open hidden settings.
+Alt+Shift+S works with a keyboard.
+Edit names and weights, then Save settings. Zero disables a prize.
+At least one weight must be positive. Weights normalize to 100% internally.
+Settings are stored on this browser/device only.
+The menu is hidden, not password-protected; supervise the iPad.
+
+CURRENT DEFAULTS
+BUY 1 GET 1 FREE: 10%
+FREE BRACELET WITH PURCHASE: 18%
+35% OFF: 18%
+25% OFF: 18%
+BETTER LUCK NEXT TIME: 2%
+15% OFF: 34%
+All six visual segments are equal size, regardless of probability.
+
+MARKET FLOW
+One spin per qualifying purchase, supervised by staff.
+Redeem prizes immediately at the market.
+Discounts apply to the current purchase only.
+After redeeming, staff tap Next Customer.
+This app does not track purchases or redemption in a database.
+Refresh restores a pending result when browser storage is available.
+Normal spins take 4.2 seconds. Reduced-motion settings skip animations.
+
+UPDATES
+Increment the CACHE version in sw.js when publishing changed files.
+Current cache version: jinglove-v7.
+Load online again, reload, then repeat the offline check.
+
+The bakery artwork follows the written brand brief; the original attached
+branding image was not available. Test on your actual iPad before market use.
